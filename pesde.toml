@@ -21,7 +21,7 @@ build_files = ["src"]
 default = "https://github.com/pesde-pkg/index"
 
 [dependencies]
-Signal = { repo = "https://githumb.com/Story-Bakery/Maid", rev = "main" }
+Signal = { repo = "https://githumb.com/StoryBakery/Maid", rev = "main" }
 
 [scripts]
 roblox_sync_config_generator = ".pesde/scripts/roblox_sync_config_generator.luau"
